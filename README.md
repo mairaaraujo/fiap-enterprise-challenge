@@ -61,12 +61,4 @@ This project is open source and available under the [MIT License](LICENSE) - see
 
 ## 👤 Author
 
-- **Maira Araujo** - [GitHub Profile](https://github.com/mairaaraujo)
-
-## 📧 Contact & Support
-
-For questions or support regarding this project, please open an issue in the repository.
-
----
-
-**Last Updated**: May 13, 2026
+- **Maíra Araújo** - [GitHub Profile](https://github.com/mairaaraujo)
