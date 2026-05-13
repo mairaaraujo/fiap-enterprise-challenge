@@ -62,3 +62,5 @@ This project is open source and available under the [MIT License](LICENSE) - see
 ## 👤 Author
 
 - **Maíra Araújo** - [GitHub Profile](https://github.com/mairaaraujo)
+- **Caio Vieira** - [GitHub Profile](https://github.com/Caio-vieira0301)
+- **Victor Cezar** - [GitHub Profile](https://github.com/VictorCezar212)
