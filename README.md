@@ -64,3 +64,4 @@ This project is open source and available under the [MIT License](LICENSE) - see
 - **Maíra Araújo** - [GitHub Profile](https://github.com/mairaaraujo)
 - **Caio Vieira** - [GitHub Profile](https://github.com/Caio-vieira0301)
 - **Victor Cezar** - [GitHub Profile](https://github.com/VictorCezar212)
+- **Giovanni Salomão** - [GitHub Profile](https://github.com/giovanniSO)
